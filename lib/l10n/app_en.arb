@@ -1,0 +1,185 @@
+{
+  "@@locale": "en",
+  "appTitle": "Converter",
+  "@appTitle": {
+    "description": "Application title"
+  },
+  "recorded": "Recorded",
+  "@recorded": {
+    "description": "Snackbar message when a record is added"
+  },
+  "emptyRecords": "No records",
+  "@emptyRecords": {
+    "description": "Message shown when there are no records to export"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Error dialog title"
+  },
+  "saveSuccess": "Save successful",
+  "@saveSuccess": {
+    "description": "Success dialog title when file is saved"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "OK button text"
+  },
+  "history": "History",
+  "@history": {
+    "description": "History drawer title and tooltip"
+  },
+  "saveAsCsv": "Save as CSV",
+  "@saveAsCsv": {
+    "description": "Tooltip for save button"
+  },
+  "addToHistory": "Add to history",
+  "@addToHistory": {
+    "description": "Tooltip for add button"
+  },
+  "deleteItem": "Delete item",
+  "@deleteItem": {
+    "description": "Tooltip for delete button"
+  },
+  "confirmClear": "Confirm clear",
+  "@confirmClear": {
+    "description": "Dialog title for clearing history"
+  },
+  "confirmClearMessage": "Are you sure you want to clear all history?",
+  "@confirmClearMessage": {
+    "description": "Dialog message for clearing history"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Confirm button text"
+  },
+  "clear": "Clear",
+  "@clear": {
+    "description": "Clear button text"
+  },
+  "historyCleared": "History cleared",
+  "@historyCleared": {
+    "description": "Snackbar message when history is cleared"
+  },
+  "configuration": "Configuration",
+  "@configuration": {
+    "description": "Configuration section title"
+  },
+  "fpsLabel": "Frame rate (FPS)",
+  "@fpsLabel": {
+    "description": "Label for FPS input field"
+  },
+  "frames": "Frames",
+  "@frames": {
+    "description": "Frames section title"
+  },
+  "dropFrameMode": "Drop frame mode",
+  "@dropFrameMode": {
+    "description": "Switch label for drop frame mode"
+  },
+  "smpteTimecode": "SMPTE TIMECODE",
+  "@smpteTimecode": {
+    "description": "SMPTE timecode display title"
+  },
+  "seconds": "Seconds",
+  "@seconds": {
+    "description": "Seconds label in result section"
+  },
+  "minutes": "Minutes",
+  "@minutes": {
+    "description": "Minutes label in result section"
+  },
+  "hours": "Hours",
+  "@hours": {
+    "description": "Hours label in result section"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings title"
+  },
+  "settingsContent": "Settings content",
+  "@settingsContent": {
+    "description": "Content text for settings page"
+  },
+  "historyContent": "History content",
+  "@historyContent": {
+    "description": "Content text for history page"
+  },
+  "themeSettings": "Theme Settings",
+  "@themeSettings": {
+    "description": "Theme settings title"
+  },
+  "framesSpecified": "Specify frames",
+  "@framesSpecified": {
+    "description": "Title for frames specification section"
+  },
+  "savedToPath": "Saved to {path}",
+  "@savedToPath": {
+    "description": "Message shown when file is saved to a path",
+    "placeholders": {
+      "path": {
+        "type": "String",
+        "example": "/path/to/file.csv"
+      }
+    }
+  },
+  "today": "Today",
+  "@today": {
+    "description": "Label for today's date"
+  },
+  "yesterday": "Yesterday",
+  "@yesterday": {
+    "description": "Label for yesterday's date"
+  },
+  "newestFirst": "Newest first",
+  "@newestFirst": {
+    "description": "Tooltip for sorting newest first"
+  },
+  "oldestFirst": "Oldest first",
+  "@oldestFirst": {
+    "description": "Tooltip for sorting oldest first"
+  },
+  "clearAllRecords": "Clear all records",
+  "@clearAllRecords": {
+    "description": "Tooltip for clearing all records"
+  },
+  "recordDeleted": "Record deleted",
+  "@recordDeleted": {
+    "description": "Snackbar message when a record is deleted"
+  },
+  "undo": "Undo",
+  "@undo": {
+    "description": "Undo button text"
+  },
+  "appearanceExperience": "Appearance & Experience",
+  "@appearanceExperience": {
+    "description": "Settings group title for appearance and experience"
+  },
+  "darkMode": "Dark mode",
+  "@darkMode": {
+    "description": "Switch label for dark mode"
+  },
+  "reverseLayout": "Reverse layout",
+  "@reverseLayout": {
+    "description": "Switch label for reverse layout"
+  },
+  "reverseLayoutSubtitle": "Switch positions of timecode and parameter panels",
+  "@reverseLayoutSubtitle": {
+    "description": "Subtitle for reverse layout switch"
+  },
+  "about": "About",
+  "@about": {
+    "description": "Settings group title for about section"
+  },
+  "versionInfo": "Version info",
+  "@versionInfo": {
+    "description": "Title for version information"
+  },
+  "githubRepo": "GitHub repository",
+  "@githubRepo": {
+    "description": "Title for GitHub repository link"
+  }
+}
